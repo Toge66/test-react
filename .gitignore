@@ -37,8 +37,7 @@ build/
 
 lib
 node_modules
-webpack/CodeSplitting/node_modules
-
+react16/node_modules
 gulpfile-desktop.js
 
 *.iml
