@@ -1,6 +1,3 @@
-/*************************************************************
- * AUTHOR : nanyuantingfeng DATE : 3/28/16 TIME : 18:08
- ************************************************************/
 module.exports = async function(context) {
   // const { babelOptions } = context;
 

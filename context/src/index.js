@@ -1,6 +1,3 @@
-/**************************************************
- * Created by nanyuantingfeng on 02/08/2017 19:38.
- **************************************************/
 import React from "react";
 import ReactDOM from "react-dom";
 import LoginPage from "./LoginPage";
